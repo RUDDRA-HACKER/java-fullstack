@@ -1,6 +1,6 @@
 # Java Identifiers
 
-## An identifier in Java is the name given to Variables, Classes, Methods, Packages, Interfaces, etc. These are the unique names used to identify programming elements. Every Java Variable must be identified with a unique name.
+### An identifier in Java is the name given to Variables, Classes, Methods, Packages, Interfaces, etc. These are the unique names used to identify programming elements. Every Java Variable must be identified with a unique name.
 
 exmample :class Rudra {
     public static void main(String[] args){
