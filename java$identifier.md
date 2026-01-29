@@ -37,4 +37,5 @@ Rules for identifiers :
 - Reserved Words can't be used as an identifier. For example, "int while = 20;" is an invalid statement as a while is a reserved word.
 
 
+
 ### In Java, reserved words are predefined identifiers that have a specific meaning in the language. They cannot be used as variable names, method names, class names, or identifiers, because they are part of the syntax of Java.

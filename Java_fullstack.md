@@ -7,44 +7,24 @@
 ### [Identifiers](java$identifier.md)
 ### [Keywords](java$keyword.md)
 ### Quiz: Java Basics
-### Data Types
-### Variables
-### Operators
+### [Data Types](java$datatypes.md)
+### [Wrapper Classes](wrapper_class.md)
+### [Variables](java$variable.md)
+### [Operators](java$operator.md)
 ### Quiz: Variables, Operator
-### Decision Making
-### Loops & Jump Statements
+### [   Decision Making](java$decision_making.md)
+### [Loops & Jump Statements](java$loops_and_jump_statement.md)
 ### Quiz: Control Statements and Loops
 ### Project: Number Guessing Game
 
 
-## Methods
-### Introduction to Methods
-### Static Methods vs Instance Methods
-### Access Modifiers
-### Command Line Arguments
-### Variable Arguments (Varargs)
-### Quiz: Methods
+### [Methods in Java](java$method_in_java.md)
 
-## Array
-### Introduction
-### Declare and Initialize Arrays
-### Multi-Dimensional Arrays
-### Quiz: Java Arrays
-### Jagged Arrays
-### Arrays Class
-### Final Arrays
+### Array
 ### Quiz: Array
 ### Projects: Tic-Tac-Toe Game
 
-## strings
-### Introduction
-### Why Strings are Immutable
-### String Concatenation
-### String Methods
-### Quiz: String Basics
-### String Class
-### StringBuffer Class
-### StringBuilder Class
+### [Strings in Java](java$strings.md)
 ### Quiz: String Classes
 
 ## OOP Concepts
