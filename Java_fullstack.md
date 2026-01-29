@@ -5,7 +5,7 @@
 ### Download and Install Java
 ### JDK vs JRE vs JVM
 ### [Identifiers](java$identifier.md)
-### Keywords
+### [Keywords](java$keyword.md)
 ### Quiz: Java Basics
 ### Data Types
 ### Variables
