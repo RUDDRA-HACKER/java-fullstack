@@ -45,38 +45,16 @@
 ### Project: Simple Banking Application
 
 
-## Interfaces
-### Interfaces
-### Class vs Interface
-### Quiz: Interfaces
-### Functional Interface
-### Nested Interface
-### Marker Interface
-### Quiz: Interface types and Comparator
-### Project: Employee Management System
+## [interfaces in Java](java$interface.md)
 
-## Exception Handling
+## [Exception Handling](java$exception_handling.md)
+## [Final, Finally and Finalize](java$final,finally_and_finalize.md)
+### [Throw and Throws](java$throws_throw_keyword.md)
+### [Customized Exception Handling](java$customized_exception_handling.md)
+### [Null Pointer Exceptions](java$null_pointer_exception.md)
 
-### Exceptions
-### Quiz: Java Exceptions
-### Final, Finally and Finalize
-### Throw and Throws
-### Customized Exception Handling
-### Chained Exceptions
-### Null Pointer Exceptions
-### Exception Handling with Method Overriding
-### Quiz: Exception Handling
-
-## Regex
-
-### Introduction
-### Matcher Class
-### Character Class
-### Quantifiers
-### Quiz: Regex Basics and Pattern Matching
-
-
-## Memory Allocation
+### [Java Regular Expressions (Regex)](java$regular_expression.md)
+### [java memory management](java$memory_management.md)
 
 ### Java Memory Management
 ### How Java Objects Stored in Memory?
